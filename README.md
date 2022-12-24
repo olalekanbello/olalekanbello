@@ -39,5 +39,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me qyubee169@gmail.com
 
 [![@lekandev01's Holopin board](https://holopin.me/lekandev01)](https://holopin.io/@lekandev01)
-
-/>
