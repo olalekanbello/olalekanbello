@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <img alt="HTML5" src="https://img.shields.io/badge/Jenkins-FCC624?style=for-the-badge&logo=jenkins&logoColor=black"/>
 <img alt="HTML5" src="https://img.shields.io/badge/MySql-FCC624?style=for-the-badge&logo=mysql&logoColor=black"/>
 <img alt="HTML5" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   
 </p>
 
