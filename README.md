@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 - 👀 I’m interested in DevOps, Cloud Native and Open Source
 - 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me qyubee169@gmail.com
+- 📫 Reach meM on qyubee169@gmail.com or belloolalekan11@yahoo.com
 
 [![@lekandev01's Holopin board](https://holopin.me/lekandev01)](https://holopin.io/@lekandev01)
